@@ -20,3 +20,4 @@ However, while the data has been regularly updated, the team has yet to implemen
 - Most people used to travel to nearby areas from their starting stations
 
 ![Citi_Bike_MapDashboard](https://user-images.githubusercontent.com/24644072/224882044-99cdef58-6635-4cd6-aa86-57dbd41b1aa5.PNG)
+
